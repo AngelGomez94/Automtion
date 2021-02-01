@@ -14,6 +14,9 @@ public class Ejercicio {
 //		* hasEqualSum(1, 1, 1); deberia regresar FALSE porque la suma de 1+1 no es 1
 //
 //		* hasEqualSum(1, 1, 2); deberia regresar TRUE porque la suma de 1+1 si es 2
+		int n1 = 1;
+		int n2 = 0;
+		int n3 = 2;
 		
 		boolean isEqualsum= hasequalsum(1,2,3);
 		System.out.println("El valor es: "+isEqualsum);
@@ -28,7 +31,7 @@ public class Ejercicio {
 		}else {
 			return false;
 		}
-		
 	}
 	
+
 }

@@ -8,6 +8,7 @@ public class Main {
 		System.out.println(Array.suma(5, 5));  
 		System.out.println(Array.frases("Hola ", "Mundo ",2));
 		System.out.println(Array.suma(10, 20, 30));
+		
 	}
 
 }
